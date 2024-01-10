@@ -48,7 +48,7 @@ int main()
     int data[NumSamples];
 
     // oscillator
-    const int freq = 4400;
+    const int freq = 8800;
     const int amp = 10000;
     for (int i = 0; i < NumSamples; i++) {
         data[i] = (short int)(sin((2 * M_PI * freq * i) / SampleRate) * amp);
