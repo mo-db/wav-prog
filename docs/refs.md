@@ -25,6 +25,7 @@
 
 # Websites
 [wavstuff](https://medium.com/the-seekers-project/coding-a-basic-reverb-algorithm-part-2-an-introduction-to-audio-programming-4db79dd4e325)
+[somes guideline](https://github.com/gurugio/lowlevelprogramming-university#What-Is-the-Low-Level)
 
 # Specs of digital audio
 [pulse call modulation PCM](https://larsimmisch.github.io/pyalsaaudio/terminology.html)
@@ -34,3 +35,4 @@
 
 # Interesting code
 [baresip](https://github.com/larsimmisch/baresip)
+
